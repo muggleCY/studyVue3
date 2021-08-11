@@ -37,7 +37,11 @@ export default defineComponent({
   name: 'HelloWorld',
   props: {
     msg: String,
+    xz:Number,
   },
+  setup(props, context){
+
+  }
 });
 </script>
 
