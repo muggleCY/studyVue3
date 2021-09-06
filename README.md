@@ -22,3 +22,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 使用bootstrap
+```
+npm install bootstrap
+```
+
+### 第一步 专栏列表
+ColumList组件 
