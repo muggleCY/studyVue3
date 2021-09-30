@@ -30,3 +30,10 @@ npm install bootstrap
 
 ### 第一步 专栏列表
 ColumList组件 
+
+### 第二步 导航栏
+Navbar
+GlobalHeader组件
+根据是否登录 
+    如果登录 显示 你好xxx
+    如果未登录 显示按钮
